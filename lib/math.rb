@@ -19,7 +19,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  remainder = num2 / num1
+  remainder = num2.Float / num1.Float
   p remainder
 end
 
